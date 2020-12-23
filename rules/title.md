@@ -18,8 +18,8 @@ Reasons why you will die:
 
 ## Main entries
 
-[The World](/world)
-[The persons](/persons)
-[Surviving](/surviving)
-[The monsters](/monsters)
-[The resource deposits](/gathering)
+[The World](/rules/world)
+[The persons](/rules/persons)
+[Surviving](/rules/surviving)
+[The monsters](/rules/monsters)
+[The resource deposits](/rules/gathering)

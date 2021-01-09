@@ -1,0 +1,1 @@
+The player person can rest in a camp. It will heal some wounds but dramatically increase hunger and thrist. The player person always have the camp tools to create camp and rest. The player person can rest only when there are no mosters near.

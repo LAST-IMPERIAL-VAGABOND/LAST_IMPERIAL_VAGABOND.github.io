@@ -1,1 +1,3 @@
-The player person can rest in a camp. It will heal some wounds but dramatically increase hunger and thrist. The player person always have the camp tools to create camp and rest. The player person can rest only when there are no mosters near.
+## The camp
+
+The player can rest in the camp. This will heal some of the wounds, but will dramatically increase hunger and pain. The player character always has the *tools* for the camp in his inventory. The player can only rest when there are no bridges nearby.

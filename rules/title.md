@@ -23,3 +23,4 @@ Reasons why you will die:
 * [Surviving](surviving)
 * [The monsters](monsters)
 * [The resource deposits](gathering)
+* [Camp](camp.md)

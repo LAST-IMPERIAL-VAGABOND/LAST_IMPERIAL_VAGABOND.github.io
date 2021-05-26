@@ -22,4 +22,4 @@ Each person has some caracteristics:
 - Inventory. It is the things that person carry in pockets, bag or somewhere else.
 - Combat actions which the person can perform on a enemy persons, monsters or himself.
 - Traits which can change all of the characteristics. Some traits gains more toughtness. Other make the person able to use specific combat actions.
-- Deseases.
+- Diseases.

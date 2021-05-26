@@ -4,7 +4,7 @@ The world full of persons. One of they is the person controlled by player.
 
 ## The persons can do
 
-- Move around location.
+- Move around in a location to [explore](exploration) it.
 - Consume some things.
 - Equip some things.
 - Open chests.

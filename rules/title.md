@@ -24,3 +24,16 @@ Reasons why you will die:
 * [The monsters](monsters)
 * [The resource deposits](gathering)
 * [Camping](camp.md)
+
+## Controls
+
+### Movement
+
+Use mouse left button on free hex to move in this hex. The player character moves to clicked node step by step if there are no monsters. But the character moves only one step if any hostile creatures are nearly. You can use keyboard to move by one step.
+
+* Num4 - left
+* Num7 - left and top
+* Num1 - left and bottom
+* Num6 - right
+* Num3 - right and bottom
+* Num9 - right and top
